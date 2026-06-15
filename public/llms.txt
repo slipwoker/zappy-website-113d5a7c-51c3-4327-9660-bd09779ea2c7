@@ -1,0 +1,101 @@
+# ריח ראשון — Generative Engine Optimization Map
+
+> An online perfume boutique selling fragrances for both men and women. The brand aims to deliver a premium, visually designed shopping experience with a focus on elegance and sensory appeal. The store targets a broad audience seeking quality scents for every occasion.
+
+---
+
+## Pages
+
+### בית
+https://-113d5a7c.zappy5.app
+חנות בשמי יוקרה אונליין לגבר ולאישה. מבחר ניחוחות מקוריים, חוויית קנייה מעוצבת ואלגנטית. בצע הזמנה עכשיו וגלה את הריח שמחכה לך.
+
+### חוויית ניחוח
+https://-113d5a7c.zappy5.app/fragrance-experience
+חוויית ניחוח אינטראקטיבית שתעזור לך למצוא את הבושם המושלם. סייר בין תווים, משפחות ריח והשראה חושית. התחל את המסע שלך עכשיו בישראל.
+
+### אודות
+https://-113d5a7c.zappy5.app/about
+הכירו את ריח ראשון: בוטיק בשמים אונליין שמביא ניחוחות מקוריים לגבר ולאישה באריזה יוקרתית. קראו על החזון, התשוקה והאיכות שמאחורי כל בקבוק.
+
+### צור קשר
+https://-113d5a7c.zappy5.app/contact
+יש שאלות על בשמים לגבר אונליין או בשמי יוקרה לאישה? צוות ריח ראשון כאן לעזור. השאר פרטים ונחזור אליך במהירות עם ייעוץ ריחני ואישי.
+
+### Products
+https://-113d5a7c.zappy5.app/products
+המוצרים שלנו - ריח ראשון
+
+### Cart
+https://-113d5a7c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-113d5a7c.zappy5.app/checkout
+תשלום
+
+### Login
+https://-113d5a7c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-113d5a7c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-113d5a7c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-113d5a7c.zappy5.app/product/:slug
+פרטי המוצר - ריח ראשון
+
+### Category
+https://-113d5a7c.zappy5.app/category/:slug
+מוצרים - ריח ראשון
+
+## Legal & Policy
+
+### Privacy Policy
+https://-113d5a7c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-113d5a7c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-113d5a7c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ריח ראשון
+An online perfume boutique selling fragrances for both men and women. The brand aims to deliver a premium, visually designed shopping experience with a focus on elegance and sensory appeal. The store targets a broad audience seeking quality scents for every occasion.
+
+## Target Audience
+- גברים ונשים
+- חובבי בשמים גברים ונשים
+- אספני בשמי יוקרה
+- חובבי קניות אונליין
+
+## Industry
+Perfume & Fragrance E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-113d5a7c.zappy5.app/sitemap.xml
+- Robots: https://-113d5a7c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-113d5a7c.zappy5.app/llms-full.txt
+- Products (JSON): https://-113d5a7c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-113d5a7c.zappy5.app/product-feed.xml
